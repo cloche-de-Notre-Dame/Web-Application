@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-text-black tracking-widest text-xl; /* 文字色と文字間隔 */
+  }
+  p {
+    @apply text-text-black tracking-widest text-base; /* 文字色と文字間隔 */
+  }
+
+  a {
+    @apply hover:opacity-75 duration-300; /* aタグにカーソルを合わせたときの設定 */
+  }
+}
