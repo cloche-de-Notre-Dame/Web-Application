@@ -8,7 +8,8 @@ const ITEMS = [
   {
     title: "趣味",
     src: About1,
-    text: `テキストテキストテキスト`,
+    text: `デジタルペインティング、
+読書、観劇、旅行`,
   },
   {
     title: "家族構成",
