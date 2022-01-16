@@ -20,7 +20,8 @@ const ITEMS = [
   {
     title: "性格",
     src: About3,
-    text: `テキストテキストテキスト`,
+    text: `気になったら、
+まずは行動！`,
   },
 ];
 
