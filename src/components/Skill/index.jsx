@@ -36,11 +36,9 @@ export const Skill = () => {
             <SectionTitle title="スキル" lead="Skills" position="left" />
             <br />
             <p className="text-left leading-normal whitespace-pre-wrap">
-              テキストテキストテキストテキストテキスト
+              保育園の栄養士として、調理や献立の作成など経験してきました。
               <br />
-              テキストテキストテキストテキストテキスト
-              <br />
-              テキストテキストテキストテキストテキスト
+              食育活動として、季節の食材や行事などを紹介する掲示物を作ったり、魚の解体ショーを主宰するなど、様々な食イベントにも携わりました。
               <br />
             </p>
             <br />
