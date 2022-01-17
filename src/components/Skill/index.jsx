@@ -4,8 +4,8 @@ import { SectionTitle } from "src/components/SectionTitle";
 
 const ITEMS = [
   {
-    name: "JavaScript",
-    parsent: "10%",
+    name: "調理",
+    parsent: "100%",
   },
   {
     name: "Python",
