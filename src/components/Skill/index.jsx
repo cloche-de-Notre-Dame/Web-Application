@@ -12,8 +12,8 @@ const ITEMS = [
     parsent: "60%",
   },
   {
-    name: "AWS",
-    parsent: "0%",
+    name: "blender",
+    parsent: "20%",
   },
   {
     name: "マネージメント",
