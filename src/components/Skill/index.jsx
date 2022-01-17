@@ -8,8 +8,8 @@ const ITEMS = [
     parsent: "100%",
   },
   {
-    name: "Python",
-    parsent: "10%",
+    name: "procreate",
+    parsent: "60%",
   },
   {
     name: "AWS",
