@@ -16,8 +16,8 @@ const ITEMS = [
     parsent: "20%",
   },
   {
-    name: "マネージメント",
-    parsent: "0%",
+    name: "Maya",
+    parsent: "20%",
   },
 ];
 
